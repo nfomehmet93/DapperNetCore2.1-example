@@ -1,0 +1,9 @@
+﻿Create DATABASE NetCoreDapperSQl
+Create Table Product
+(
+Id int Primary Key IDENTITY,
+Name nvarchar(50) NOT NULL,
+ISBN  nvarchar(50) NOT NULL,
+CreateonUtc datetime,
+UpdateonUtc datetime
+)

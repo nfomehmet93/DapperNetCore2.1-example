@@ -1,0 +1,14 @@
+C:\Users\Mehmet\source\repos\RestFullServices\bin\Debug\netcoreapp2.1\RestFullServices.deps.json
+C:\Users\Mehmet\source\repos\RestFullServices\bin\Debug\netcoreapp2.1\RestFullServices.runtimeconfig.json
+C:\Users\Mehmet\source\repos\RestFullServices\bin\Debug\netcoreapp2.1\RestFullServices.runtimeconfig.dev.json
+C:\Users\Mehmet\source\repos\RestFullServices\bin\Debug\netcoreapp2.1\RestFullServices.dll
+C:\Users\Mehmet\source\repos\RestFullServices\obj\Debug\netcoreapp2.1\RestFullServices.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\RestFullServices\obj\Debug\netcoreapp2.1\RestFullServices.RazorAssemblyInfo.cache
+C:\Users\Mehmet\source\repos\RestFullServices\obj\Debug\netcoreapp2.1\RestFullServices.RazorAssemblyInfo.cs
+C:\Users\Mehmet\source\repos\RestFullServices\obj\Debug\netcoreapp2.1\RestFullServices.AssemblyInfoInputs.cache
+C:\Users\Mehmet\source\repos\RestFullServices\obj\Debug\netcoreapp2.1\RestFullServices.AssemblyInfo.cs
+C:\Users\Mehmet\source\repos\RestFullServices\obj\Debug\netcoreapp2.1\RestFullServices.RazorTargetAssemblyInfo.cache
+C:\Users\Mehmet\source\repos\RestFullServices\bin\Debug\netcoreapp2.1\RestFullServices.pdb
+C:\Users\Mehmet\source\repos\RestFullServices\obj\Debug\netcoreapp2.1\RestFullServices.dll
+C:\Users\Mehmet\source\repos\RestFullServices\obj\Debug\netcoreapp2.1\RestFullServices.pdb
+C:\Users\Mehmet\source\repos\RestFullServices\obj\Debug\netcoreapp2.1\RestFullServices.csprojAssemblyReference.cache
